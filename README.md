@@ -1,11 +1,22 @@
-# Python Fundamentals
+# Student Management System (Python)
 
-This repository contains Python practice programs created as part of my Computer Science BSc.
+This is a beginner-to-intermediate Python project built to practice:
+- Object-Oriented Programming (OOP)
+- Class interaction
+- Clean project structure
+- Basic data management
 
-## Topics Covered
-- Variables and data types
-- Loops
-- Functions
+## Current Features
+- Add students
+- Remove students
+- Update course
+- View all students
+- Count total students
 
-## Purpose
-To build a strong foundation in Python programming and reinforce core concepts through hands-on practice.
+## Project Status
+In progress — more features will be added.
+
+## Next Planned Features
+- Command-line menu
+- File-based storage (JSON)
+- Input validation
